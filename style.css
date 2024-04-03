@@ -1,0 +1,391 @@
+*{
+    padding: 0%;
+    margin: auto;
+}
+
+.containerone{
+  background-image: url(images/banner.png);
+    width: 100%;
+    height: 100vh;
+
+}
+
+.titlebox{
+     width: 100%;
+    height: 10vh;
+    display: flex;
+}
+h1{
+    padding-top: 30px;
+
+}
+
+.titlebox h1{
+    color: white;
+}
+
+.questions{
+    padding-top: 30px;
+    font-size:20px;
+    font-weight: 100;
+}
+
+.questions a{
+    text-decoration: none;
+    color: #282424;
+}
+
+.div{
+    display: flex;
+    
+}
+
+/* DIV ONE */
+
+.divone{
+    
+
+height: 90vh;
+width: 40%;
+}
+
+.divone h4{
+    color: white;
+font-size: 19px;
+}
+
+h4{
+    padding-left: 70px;
+    padding-top: 50px;
+    color: white;
+}
+
+.divone h3{
+    padding-left: 70px;
+    padding-top: 100px;
+    font-size: 60px;
+    color: white;
+    
+}
+
+
+.download{
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    margin-top:50px ;
+    margin-left: 70px;
+    padding: 10px 40px 10px 40px;
+    border-radius: 20px;
+    border: none;
+}
+
+.download:hover{
+    background-color: #a19b9b;
+}
+
+.divtwo{
+
+    height: 90vh;
+    width: 40%;
+
+}
+
+#iphone{
+    padding-top: 40px;
+   width: 90%;
+   height: 90vh;
+
+}
+
+/* DIV SECTION TWO */
+
+.divsectiontwo{
+    background-color: #282424;
+    width: 100%;
+    height: 120vh;
+    display: flex;
+    position: relative;
+
+}
+
+.orange{
+    background-color: #f47c1c;
+    padding-top: 50px;
+    margin-left: 130px;
+    height: 70vh;
+    width: 50%;
+
+}
+.imggirl{
+background-image: url(images/qt2.jpg);
+    height: 80vh;
+    width: 55%;
+    position: absolute;
+    top: 180px;
+    left: 150px;
+    
+}
+.questionsdivv{
+    background-color: #e0dcdc;
+    width: 30%;
+    height: 25vh;
+    position:absolute ;
+    top: 350px;
+    right: 250px;
+    padding: 20px 15px 15px 15px;
+}
+
+#quality{
+    font-size: 30px;
+    font-weight: 400;
+    padding-left: 80px;
+}
+
+h6{
+    font-weight: 100;
+    font-style: normal;
+    padding-left: 9px;
+}
+
+/* divsectionthree */
+
+.divsectionthree{
+    background-color: #e0dcdc;
+    height: 90vh;
+    width: 100%;
+}
+.divsectionthree h5{
+font-size: 30px;
+padding-left: 800px;
+}
+
+.divsectionthree #forcustomer{
+    font-size: 35px;
+    padding-left: 500px;
+
+}
+
+#text{
+    font-size: 20px;
+padding-left: 200px;
+padding-right: 200px;
+}
+
+/* MULTIPLE CARDS */
+
+
+.cardgroupp{
+    background-color: #282424;
+display: flex;
+width: 90%;
+height: 62vh;
+border-radius: 3%;
+}
+
+.cardone{
+    margin-top: 11px;
+    width: 30%;
+    height: 60vh;
+
+}
+
+.cardone:hover{
+    background-color: #000000;
+}
+
+.cardone img{
+width: 100%;
+height: 40vh;
+}
+
+.cardone h5{
+    font-size: 10px;
+}
+
+.cardtwo{
+    margin-top: 11px;
+    width: 30%;
+    height: 60vh;
+
+}
+
+.cardtwo:hover{
+    background-color: #000000;
+}
+
+.cardtwo img{
+    width: 100%;
+    height: 40vh;
+    }
+
+
+.cardthree{
+    margin-top: 11px;
+    width: 30%;
+    height: 60vh;
+
+}
+.cardthree:hover{
+    background-color: #000000;
+}
+.cardthree img{
+    width: 100%;
+    height: 40vh;
+    }
+
+    .title{
+        font-size: 25px;
+        font-weight: 500;
+        color: white;
+        padding-left: 130px;
+    }
+
+    .bodytext{
+        font-size: 15px;
+        font-weight: 100;
+        color: white;
+        padding-left: 50px;
+    padding-right: 50px;
+    }
+    .titlethree{
+        font-size: 25px;
+        font-weight: 500;
+        color: white;
+        padding-left: 105px;
+    }
+
+    .bodytextt{
+        font-size: 15px;
+        font-weight: 100;
+        color: white;
+        padding-left: 80px;
+    padding-right: 50px;
+    }
+
+    /* SECOND LAST DIV */
+
+    .slast{
+        background-color: white;
+        height: 80vh;
+        width: 70%;
+    }
+
+    .slast h1{
+        padding-left: 140px;
+        padding-top: 80px;
+    color: grey;
+    font-size: 50px;
+    }
+
+    /* div links */
+
+    .slast a{
+        text-decoration: none;
+        color: #585151;
+    }
+
+    .quesone{
+margin-top: 30px;
+        text-align: center;
+        font-size: large;
+        height: 5vh;
+        width: 60%;
+        border: 5px solid grey;
+    }
+
+    .questwo{
+
+        margin-top: 20px;
+        text-align: center;
+        font-size: large;
+        height: 5vh;
+        width: 60%;
+        border: 5px solid grey;
+    }
+/* 
+    FOOTER */
+
+    .footer{
+        width: 100%;
+        height: 90vh;
+        background-color: #282424;
+        display: flex;
+    }
+
+    .condetail{
+        width: 50%;
+        height: 70vh;
+    }
+
+    #con{
+        font-size: 50px;
+margin-left: 100px;
+color: white;
+    }
+
+    #now{
+        font-size: 50px;
+        margin-left: 100px;
+        margin-top: 30px;
+        color: white;
+    }
+
+    .dd{
+        margin-top: 60px;
+        margin-left: 100px;
+        font-size: 20px;
+        padding: 5px 80px 5px 80px;
+        color: #585151;
+        background-color: white;
+        border: none;
+    }
+
+    .dd:hover{
+color: white;
+        background-color: #666363;
+    }
+
+    .input{
+        /* background-color: rgb(255, 0, 0); */
+        width: 50%;
+        height: 70vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #alll{
+        font-size: 17px;
+    border: none;
+    background-color: #282424;
+border-bottom: 1px solid white;
+height: 50px;
+    }
+
+#send{
+    margin-top: 60px;
+    font-size: 20px;
+    padding: 5px 80px 5px 80px;
+    color: #ffffff;
+    background-color: rgb(0, 0, 0);
+    border: none;
+}
+
+#send:hover{
+    background-color: grey;
+    color: white;
+}
+    .rightreversed{
+        background-color: #f47c1c;
+        height: 10vh;
+        width: 100%;
+    }
+
+    #allright{
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 20px;
+color: white;
+    }
